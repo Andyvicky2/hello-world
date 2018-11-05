@@ -1,3 +1,3 @@
 # hello-world
 This is my first repository
-Hi! I'm a Salesforce Admin try to learn coding  
+Hi! I'm a Salesforce Admin trying to learn coding  
